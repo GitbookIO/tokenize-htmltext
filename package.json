@@ -1,7 +1,7 @@
 {
-    "name": "tokenize-html",
+    "name": "tokenize-htmltext",
     "version": "1.0.0",
-    "homepage": "https://github.com/GitbookIO/tokenize-html",
+    "homepage": "https://github.com/GitbookIO/tokenize-htmltext",
     "description": "Tokenize HTML into a list of text tokens",
     "main": "index.js",
     "dependencies": {
@@ -16,11 +16,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/tokenize-html.git"
+        "url": "https://github.com/GitbookIO/tokenize-htmltext.git"
     },
     "author": "GitBook <contact@gitbook.com>",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/GitbookIO/tokenize-html/issues"
+        "url": "https://github.com/GitbookIO/tokenize-htmltext/issues"
     }
 }

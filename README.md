@@ -1,7 +1,7 @@
-# tokenize-html
+# tokenize-htmltext
 
-[![Build Status](https://travis-ci.org/GitbookIO/tokenize-html.png?branch=master)](https://travis-ci.org/GitbookIO/tokenize-html)
-[![NPM version](https://badge.fury.io/js/tokenize-html.svg)](http://badge.fury.io/js/tokenize-html)
+[![Build Status](https://travis-ci.org/GitbookIO/tokenize-htmltext.png?branch=master)](https://travis-ci.org/GitbookIO/tokenize-htmltext)
+[![NPM version](https://badge.fury.io/js/tokenize-htmltext.svg)](http://badge.fury.io/js/tokenize-htmltext)
 
 Tokenize an html string into a list of text tokens, it keeps reference to indexes in the original string.
 
@@ -14,7 +14,7 @@ $ npm install tokenize-text
 ### Usage
 
 ```js
-var tokenizeHTML = require('tokenize-html');
+var tokenizeHTML = require('tokenize-htmltext');
 
 
 var tokens = tokenizeHTML('<b>hello</b> world');
