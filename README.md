@@ -8,7 +8,7 @@ Tokenize an html string into a list of text tokens, it keeps reference to indexe
 ### Installation
 
 ```
-$ npm install tokenize-text
+$ npm install tokenize-htmltext
 ```
 
 ### Usage
