@@ -1,0 +1,26 @@
+{
+    "name": "tokenize-html",
+    "version": "0.0.0",
+    "homepage": "https://github.com/GitbookIO/tokenize-html",
+    "description": "Tokenize HTML into a list of text tokens",
+    "main": "index.js",
+    "dependencies": {
+        "htmlparser2": "3.8.3"
+    },
+    "devDependencies": {
+        "mocha": "2.3.3",
+        "should": "7.1.0"
+    },
+    "scripts": {
+        "test": "mocha --reporter spec --recursive --bail"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GitbookIO/tokenize-html.git"
+    },
+    "author": "GitBook <contact@gitbook.com>",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/GitbookIO/tokenize-html/issues"
+    }
+}
